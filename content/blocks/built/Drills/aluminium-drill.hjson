@@ -5,11 +5,16 @@ size: 2
 category: production
 
 tier:1
+rotatespeed:1
 
 requirements:[
     aluminium/15
 ]
 
+drawRim: false
+drawSpinSprite: true
 health:400
 
 alwaysUnlocked: true
+research:11k-01-core-essence
+
