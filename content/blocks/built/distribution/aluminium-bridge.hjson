@@ -1,0 +1,14 @@
+type: DuctBridge
+name: Aluminium Bridge
+description: Acts as a bridge for crossing gaps
+health: 135
+size: 1
+requirements: [
+  aluminium/10
+] 
+category: distribution
+research: aluminium-splitter
+squareSprite: false
+range: 8
+speed: 15
+researchCostMultiplier: 0.5

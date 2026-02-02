@@ -1,0 +1,8 @@
+name: Gold
+description:A material that is quite malleable and soft,\n as well as conductive and good with electricity can be used to create electromagnets and other simple materials
+
+
+hardness: 1
+cost: 0.5
+alwaysUnlocked: true
+color: dd88aa

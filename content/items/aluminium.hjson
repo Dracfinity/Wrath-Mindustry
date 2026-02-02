@@ -1,0 +1,11 @@
+name: Aluminium
+description:'''
+A sturdy material with many use cases
+can be used as a simple material
+for most any use case
+'''
+
+hardness: 1
+cost: 0.25
+alwaysUnlocked: true
+color: 888888

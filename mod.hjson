@@ -1,0 +1,9 @@
+author:"Dracfinity"
+description:'''
+Adds a new planet to explore, with new materials, places, 
+and weapons to use to defend against the demonic inhabitants.
+'''
+
+minGameVersion:154
+displayName: Wrath
+name: wrath

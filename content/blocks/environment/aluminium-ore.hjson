@@ -1,0 +1,7 @@
+type: OreBlock
+itemDrop: aluminium
+attribute:{
+    aluminium:1
+}
+name: Aluminium Ore
+variants:2

@@ -1,0 +1,7 @@
+type: OreBlock
+itemDrop: gold
+attribute:{
+    gold:1
+}
+name: Gold Ore
+variants:3

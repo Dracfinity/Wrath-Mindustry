@@ -1,0 +1,14 @@
+type: DuctRouter
+name: Aluminium Splitter
+description: Spreads items in 3 directions equally
+size:1
+category: distribution
+
+requirements: [
+  aluminium/4
+]
+
+research: aluminium-belt
+
+speed: 15
+health: 60

@@ -1,0 +1,15 @@
+type: Drill
+name: Aluminium Drill
+description: An aluminium drill
+size: 2
+category: production
+
+tier:1
+
+requirements:[
+    aluminium/15
+]
+
+health:400
+
+alwaysUnlocked: true

@@ -1,0 +1,13 @@
+type: Duct
+name: Aluminium Belt
+description: "Very slow, uses the benefit of robotic precision \n to make the aluminium surfaces as smooth as possible to ensure that the momentum is kept and stays at the same speed,"
+category: distribution
+alwaysUnlocked: true
+research: 11k-01-core-essence
+speed: 5
+health: 30
+bridgeReplacement: aluminium-bridge
+requirements: [
+  aluminium/1
+]
+junctionReplacement: a
