@@ -10,4 +10,6 @@ bridgeReplacement: aluminium-bridge
 requirements: [
   aluminium/1
 ]
+size:1
+
 
